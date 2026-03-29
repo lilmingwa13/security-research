@@ -228,7 +228,7 @@ This prevented common SQL injection payloads from reaching the query constructio
 
 ## Upstream Fix
 
-**PR Link:** `https://github.com/grafana/mcp-grafana/pull/693`
+**PR Link:** (https://github.com/grafana/mcp-grafana/pull/693)
 
 <img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/694153b5-df50-43ca-bddd-9b13cd1db2e0" />
 
